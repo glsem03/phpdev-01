@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt install curl git php-fpm nginx mysql-server phpmyadmin memcached redis-server php-redis php-memcached zsh | curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
